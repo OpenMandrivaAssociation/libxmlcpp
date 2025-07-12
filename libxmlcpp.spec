@@ -13,6 +13,7 @@ URL:		https://libxmlplusplus.sourceforge.net/
 Source:		https://download.gnome.org/sources/libxml++/%{url_ver}/libxml++-%{version}.tar.xz
 BuildRequires:	docbook5-style-xsl
 #BuildRequires:	docbook5-schemas
+BuildRequires:	xsltproc
 BuildRequires:	doxygen
 BuildRequires:	graphviz
 BuildRequires:	meson
