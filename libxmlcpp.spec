@@ -50,7 +50,7 @@ applications which will use libraries from %name.
 
 %build
 %meson \
-	-Dbuild-documentation=true
+	-Dbuild-documentation=false
 %meson_build
 
 %install
