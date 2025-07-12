@@ -63,8 +63,8 @@ applications which will use libraries from %name.
 
 %files -n %{devname}
 %doc ChangeLog NEWS README.md
-%doc %{_datadir}/doc/libxml++-%{api}/
-%{_datadir}/devhelp/books/libxml++-%{api}/libxml++-%{api}.devhelp2
+#doc %{_datadir}/doc/libxml++-%{api}/
+#{_datadir}/devhelp/books/libxml++-%{api}/libxml++-%{api}.devhelp2
 %{_includedir}/libxml++-%{api}/
 %{_libdir}/libxml++-%{api}/
 %{_libdir}/pkgconfig/libxml++-%{api}.pc
