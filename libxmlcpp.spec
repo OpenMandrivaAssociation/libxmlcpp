@@ -6,7 +6,7 @@
 Name: 		libxml++
 Summary: 	C++ interface for working with XML files
 Version:	5.4.0
-Release: 	1
+Release: 	2
 License:	LGPLv2+
 Group:		System/Libraries
 URL:		https://libxmlplusplus.sourceforge.net/
